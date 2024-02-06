@@ -1,4 +1,4 @@
-# Food-Web-App
+# OrderFood-Web-App
 
 This is a simple web application showcasing various food-related content. The project demonstrates HTML, CSS, and responsive design techniques.
 
